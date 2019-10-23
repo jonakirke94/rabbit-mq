@@ -1,0 +1,14 @@
+C:\Users\Jonathan\Documents\git\rabbit-mq\sender\sender\bin\Debug\netcoreapp3.0\sender.exe
+C:\Users\Jonathan\Documents\git\rabbit-mq\sender\sender\obj\Debug\netcoreapp3.0\sender.csprojAssemblyReference.cache
+C:\Users\Jonathan\Documents\git\rabbit-mq\sender\sender\obj\Debug\netcoreapp3.0\sender.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Documents\git\rabbit-mq\sender\sender\obj\Debug\netcoreapp3.0\sender.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Documents\git\rabbit-mq\sender\sender\obj\Debug\netcoreapp3.0\sender.AssemblyInfo.cs
+C:\Users\Jonathan\Documents\git\rabbit-mq\sender\sender\bin\Debug\netcoreapp3.0\sender.deps.json
+C:\Users\Jonathan\Documents\git\rabbit-mq\sender\sender\bin\Debug\netcoreapp3.0\sender.runtimeconfig.json
+C:\Users\Jonathan\Documents\git\rabbit-mq\sender\sender\bin\Debug\netcoreapp3.0\sender.runtimeconfig.dev.json
+C:\Users\Jonathan\Documents\git\rabbit-mq\sender\sender\bin\Debug\netcoreapp3.0\sender.dll
+C:\Users\Jonathan\Documents\git\rabbit-mq\sender\sender\bin\Debug\netcoreapp3.0\sender.pdb
+C:\Users\Jonathan\Documents\git\rabbit-mq\sender\sender\bin\Debug\netcoreapp3.0\RabbitMQ.Client.dll
+C:\Users\Jonathan\Documents\git\rabbit-mq\sender\sender\obj\Debug\netcoreapp3.0\sender.csproj.CopyComplete
+C:\Users\Jonathan\Documents\git\rabbit-mq\sender\sender\obj\Debug\netcoreapp3.0\sender.dll
+C:\Users\Jonathan\Documents\git\rabbit-mq\sender\sender\obj\Debug\netcoreapp3.0\sender.pdb

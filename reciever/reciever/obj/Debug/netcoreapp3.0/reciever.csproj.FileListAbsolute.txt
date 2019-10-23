@@ -1,0 +1,14 @@
+C:\Users\Jonathan\Documents\git\rabbit-mq\reciever\reciever\bin\Debug\netcoreapp3.0\reciever.exe
+C:\Users\Jonathan\Documents\git\rabbit-mq\reciever\reciever\obj\Debug\netcoreapp3.0\reciever.csprojAssemblyReference.cache
+C:\Users\Jonathan\Documents\git\rabbit-mq\reciever\reciever\obj\Debug\netcoreapp3.0\reciever.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Documents\git\rabbit-mq\reciever\reciever\obj\Debug\netcoreapp3.0\reciever.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Documents\git\rabbit-mq\reciever\reciever\obj\Debug\netcoreapp3.0\reciever.AssemblyInfo.cs
+C:\Users\Jonathan\Documents\git\rabbit-mq\reciever\reciever\bin\Debug\netcoreapp3.0\reciever.deps.json
+C:\Users\Jonathan\Documents\git\rabbit-mq\reciever\reciever\bin\Debug\netcoreapp3.0\reciever.runtimeconfig.json
+C:\Users\Jonathan\Documents\git\rabbit-mq\reciever\reciever\bin\Debug\netcoreapp3.0\reciever.runtimeconfig.dev.json
+C:\Users\Jonathan\Documents\git\rabbit-mq\reciever\reciever\bin\Debug\netcoreapp3.0\reciever.dll
+C:\Users\Jonathan\Documents\git\rabbit-mq\reciever\reciever\bin\Debug\netcoreapp3.0\reciever.pdb
+C:\Users\Jonathan\Documents\git\rabbit-mq\reciever\reciever\bin\Debug\netcoreapp3.0\RabbitMQ.Client.dll
+C:\Users\Jonathan\Documents\git\rabbit-mq\reciever\reciever\obj\Debug\netcoreapp3.0\reciever.csproj.CopyComplete
+C:\Users\Jonathan\Documents\git\rabbit-mq\reciever\reciever\obj\Debug\netcoreapp3.0\reciever.dll
+C:\Users\Jonathan\Documents\git\rabbit-mq\reciever\reciever\obj\Debug\netcoreapp3.0\reciever.pdb
